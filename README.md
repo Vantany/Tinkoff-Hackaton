@@ -1,1 +1,1 @@
-# Tinkoff-Hakaton
+# Tinkoff-Hackaton
