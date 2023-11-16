@@ -260,6 +260,7 @@ def bestMove(str_grid, curFig):
 
     return str_grid
 
+
 # def win_checker():
 #     new_game = Game()
 #     win = False
